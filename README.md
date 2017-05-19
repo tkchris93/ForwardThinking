@@ -7,6 +7,8 @@ Authors:
 - Ben Ehlert
 - Jeffrey Humpherys
 - Tyler Jarvis
+- David Kartchner
+- Kevin Miller
 - Sean Wade
 
 ## Dependencies
