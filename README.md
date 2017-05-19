@@ -1,6 +1,13 @@
 # ForwardThinking
 Companion code for _Forward Thinking: Building and Training Neural Networks One Layer at a Time_ and _Forward Thinking: Building Deep Random Forests_ submitted to NIPS 2017
 
+- Chris Hettinger
+- Tanner Christensen
+- Ben Ehlert
+- Jeffrey Humpherys
+- Tyler Jarvis
+- Sean Wade
+
 ## Dependencies
 - numpy==1.11.3
 - tensorflow-gpu==1.0.0
