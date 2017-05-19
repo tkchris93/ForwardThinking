@@ -1,6 +1,7 @@
 # ForwardThinking
-Companion code for _Forward Thinking: Building and Training Neural Networks One Layer at a Time_ and _Forward Thinking: Building Deep Random Forests_ submitted to NIPS 2017
+Companion code for _Forward Thinking: Building and Training Neural Networks One Layer at a Time_ and _Forward Thinking: Building Deep Random Forests_ submitted to NIPS 2017.
 
+Authors:
 - Chris Hettinger
 - Tanner Christensen
 - Ben Ehlert
