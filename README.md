@@ -1,5 +1,5 @@
 # ForwardThinking
-Companion code for &lt;&lt;Paper 1>> and &lt;&lt;Paper 2>> submitted to NIPS 2017
+Companion code for _Forward Thinking: Building and Training Neural Networks One Layer at a Time_ and _Forward Thinking: Building Deep Random Forests_ submitted to NIPS 2017
 
 ## Dependencies
 - numpy==1.11.3
