@@ -22,7 +22,7 @@ We used a single desktop computer with:
 - Intel i5-7400 processor
 - Nvidia GeForce GTX 1060 3GB GPU
 - 8GB DDR4 RAM
-With our configuration, it took __XXX__ minutes to run the `run_mnist_cnn.sh` script.
+With our configuration, it took approximately 2 hours to run the `run_mnist_cnn.sh` script.
 
 ## Installation
 TODO: Ask Sean to make this pip installable.
