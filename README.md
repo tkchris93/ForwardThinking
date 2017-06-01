@@ -26,9 +26,6 @@ With our configuration, it took approximately 2 hours to run the `run_mnist_cnn.
 
 ## Installation
 TODO: Ask Sean to make this pip installable.
-The ForwardThinking module is pip installable. Download and install this package by running
-
-```pip install forward_thinking```
 
 ## Execution
 Once the package has been installed, you may run the included `run_mnist_cnn.sh` script. 
