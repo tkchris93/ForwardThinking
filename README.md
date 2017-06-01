@@ -12,8 +12,8 @@ Authors:
 - Sean Wade
 
 ## Publications
-_Forward Thinking: Building and Training Neural Networks One Layer at a Time_: (URL coming soon)
-_Forward Thinking: Building Deep Random Forests_: https://arxiv.org/abs/1705.07366
+- _Forward Thinking: Building and Training Neural Networks One Layer at a Time_: (URL coming soon)
+- _Forward Thinking: Building Deep Random Forests_: https://arxiv.org/abs/1705.07366
 
 ## Dependencies
 - numpy==1.11.3
