@@ -11,6 +11,10 @@ Authors:
 - Kevin Miller
 - Sean Wade
 
+## Publications
+_Forward Thinking: Building and Training Neural Networks One Layer at a Time_: (URL coming soon)
+_Forward Thinking: Building Deep Random Forests_: https://arxiv.org/abs/1705.07366
+
 ## Dependencies
 - numpy==1.11.3
 - tensorflow-gpu==1.0.0
@@ -25,7 +29,7 @@ We used a single desktop computer with:
 With our configuration, it took approximately 2 hours to run the `run_mnist_cnn.sh` script.
 
 ## Installation
-TODO: Ask Sean to make this pip installable.
+TODO: Make this pip installable.
 
 ## Execution
 Once the package has been installed, you may run the included `run_mnist_cnn.sh` script. 
