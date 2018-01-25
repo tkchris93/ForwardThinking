@@ -15,7 +15,7 @@ X_t_curr, y_t = 0,0 # memory
 # Get single pixe wiggling
 X_curr, y_tr = single_pixeldiag_tr(X_tr, y_tr)
 X_curr = X_curr.astype('uint8')
-y_sp = y_sp.astype('uint8')
+y_tr = y_tr.astype('uint8')
 X_tr = 0
 
 
